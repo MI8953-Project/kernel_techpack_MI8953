@@ -1,6 +1,1 @@
-menu "Touchscreen"
-	depends on INPUT_TOUCHSCREEN
-
 source "techpack/mi8953/input/touchscreen/focaltech_touch/Kconfig"
-
-endmenu
