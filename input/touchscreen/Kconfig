@@ -44,3 +44,4 @@ config TOUCHSCREEN_TD4310_LANSI_E7
 	  module will be called ist3038c_ts.
 
 source "techpack/mi8953/input/touchscreen/focaltech_touch/Kconfig"
+source "techpack/mi8953/input/touchscreen/ft8716/Kconfig"
