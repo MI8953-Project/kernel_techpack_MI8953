@@ -44,6 +44,8 @@
 #include <synaptics_dsx.h>
 #include "synaptics_dsx_core.h"
 #include <linux/proc_fs.h>
+#include <linux/seq_file.h>
+#include <linux/mod_devicetable.h>
 
 
 #define FW_IHEX_NAME "synaptics/startup_fw_update_lansi.bin"
