@@ -1,1 +1,1 @@
-# kernel_techpack_ysl
+# kernel_techpack_msm8953
